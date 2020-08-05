@@ -10,7 +10,7 @@
 <body>
     <h1>Buat Account Baru</h1>
     <h2>Sign Up Form</h2>
-    <form action="/welcome" method="post">
+    <form action="register/welcome" method="post">
         @csrf
         <label>First Name:</label><br>
         <input type="text" name="firstname" id=""><br><br>

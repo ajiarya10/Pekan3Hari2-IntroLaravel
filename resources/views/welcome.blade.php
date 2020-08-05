@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Selamat Datang {{$firstname}} {{$lastname}}</h1>
+    <h1>Selamat Datang {{$firstname.' '.$lastname}}</h1>
     <p>Terima Kasih telah bergabung di sanbercode. sosial media bersama</p>
 </body>
 </html>

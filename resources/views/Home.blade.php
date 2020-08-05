@@ -18,7 +18,7 @@
     <h3>Cara bergabung ke SanberCode</h3>
     <ol type="1">
         <li>Mengunjungi Sanber Code</li>
-        <li>Mendaftar di form <a href="/register">sign up</a></li>
+        <li>Mendaftar di form <a href="{{url('/register')}}">sign up</a></li>
         <li>Selesai</li>
     </ol>
 </body>
